@@ -1,6 +1,6 @@
-import NotificationButton from "./componetes/botao de notificacao"
-import Header from "./componetes/Header"
-import SalesCard from "./componetes/SalesCard"
+import NotificationButton from "./components/botao de notificacao"
+import Header from "./components/Header"
+import SalesCard from "./components/SalesCard"
 
 function App() {
   return (
